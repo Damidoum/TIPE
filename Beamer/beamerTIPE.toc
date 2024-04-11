@@ -1,0 +1,17 @@
+\beamer@sectionintoc {2}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{La Transform\IeC {\'e}e de Radon}{3}{0}{1}
+\beamer@subsectionintoc {2}{2}{La loi de Beer-Lambert}{5}{0}{1}
+\beamer@sectionintoc {3}{La reconstruction tomographique}{9}{0}{2}
+\beamer@subsectionintoc {3}{1}{Utilisation des sinogrammes}{9}{0}{2}
+\beamer@subsectionintoc {3}{2}{La r\IeC {\'e}solution analytique}{17}{0}{2}
+\beamer@subsubsectionintoc {3}{2}{1}{La r\IeC {\'e}troprojection simple}{18}{0}{2}
+\beamer@subsubsectionintoc {3}{2}{2}{La r\IeC {\'e}troprojection filtr\IeC {\'e}e}{27}{0}{2}
+\beamer@sectionintoc {4}{La r\IeC {\'e}solution discr\IeC {\`e}te}{38}{0}{3}
+\beamer@subsectionintoc {4}{1}{Une premi\IeC {\`e}re m\IeC {\'e}thode : la transform\IeC {\'e}e de Fourier discr\IeC {\`e}te}{39}{0}{3}
+\beamer@subsectionintoc {4}{2}{Une deuxi\IeC {\`e}me m\IeC {\'e}thode : reconstruction alg\IeC {\'e}brique}{41}{0}{3}
+\beamer@sectionintoc {5}{Les r\IeC {\'e}sultats obtenus avec les codes Python}{62}{0}{4}
+\beamer@sectionintoc {6}{Annexe}{85}{0}{5}
+\beamer@subsectionintoc {6}{1}{La transform\IeC {\'e}e de Fourier}{85}{0}{5}
+\beamer@subsectionintoc {6}{2}{La transform\IeC {\'e}e de Fourier discr\IeC {\`e}te}{88}{0}{5}
+\beamer@subsectionintoc {6}{3}{Code Python : m\IeC {\'e}thode par la transform\IeC {\'e}e de Fourier discr\IeC {\`e}te}{92}{0}{5}
+\beamer@subsectionintoc {6}{4}{Code Python : m\IeC {\'e}thode ART}{107}{0}{5}
